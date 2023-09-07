@@ -1,6 +1,6 @@
 # multi-token-proactive-market-maker
 
-I'd like to thank Stanley Jiang, Krishna Palempalli, Michael Mirkin, Fan Zhang, Bineet Mishra, Weizhao Tang, Haoqian Zhang, and Marwa Mouallem for writing parts of the simulation code, and Preston Rozwood and Songwei Chen for contributing to the Arxiv preprint. Additionally, I want to thank the Initiative for Cryptocurrencies and Contracts for allowing us to present our initial findings.
+I'd like to thank Stanley Jiang, Krishna Palempalli, Michael Mirkin, Fan Zhang, Bineet Mishra, Weizhao Tang, Haoqian Zhang, and Marwa Mouallem for writing parts of the simulation code, and Preston Rozwood and Songwei Chen for contributing to the Arxiv preprint. Additionally, I want to thank the Initiative for Cryptocurrencies and Contracts for allowing us to present our initial findings. Please also consider checking our [Arxiv paper](https://arxiv.org/abs/2309.00632).
 
 ## Running the code
 
